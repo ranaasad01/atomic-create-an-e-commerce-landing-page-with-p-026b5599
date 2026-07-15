@@ -1,1 +1,86 @@
-{}
+{
+  "nav": {
+    "brand": "Verdant",
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Comprar ahora",
+    "cart": "Carrito de compras",
+    "toggleMenu": "Alternar menú"
+  },
+  "footer": {
+    "brand": {
+      "description": "Productos naturales y orgánicos premium, obtenidos de forma sostenible y elaborados con cuidado para una vida cotidiana mejor."
+    },
+    "shop": {
+      "title": "Tienda",
+      "all": "Todos los productos",
+      "new": "Nuevas llegadas",
+      "sale": "Oferta",
+      "bestsellers": "Más vendidos"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre nosotros",
+      "sustainability": "Sostenibilidad",
+      "press": "Prensa",
+      "careers": "Carreras"
+    },
+    "support": {
+      "title": "Soporte",
+      "faq": "Preguntas frecuentes",
+      "shipping": "Envío",
+      "returns": "Devoluciones",
+      "contact": "Contáctenos"
+    },
+    "copyright": "© {year} {brand}. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "forNature": "por el planeta."
+  },
+  "about": {
+    "body": "Seleccionamos los mejores productos de fabricantes confiables en todo el mundo. Cada artículo se elige por su calidad, sostenibilidad y excelencia en diseño para asegurar que obtengas lo mejor.",
+    "eyebrow": "Nuestra historia",
+    "heading": "Cuidadosamente seleccionado. Hermosamente entregado.",
+    "stat_label": "Clientes satisfechos"
+  },
+  "categories": {
+    "eyebrow": "Comprar por categoría",
+    "heading": "Encuentra lo que buscas",
+    "items": "Artículos",
+    "view_all": "Ver todo"
+  },
+  "hero": {
+    "cta_primary": "Comprar ahora",
+    "cta_secondary": "Más información",
+    "eyebrow": "Bienvenido a nuestra tienda",
+    "float_sub": "Envío gratis en pedidos superiores a $50",
+    "float_title": "Oferta por tiempo limitado",
+    "headline1": "Descubre",
+    "headline2": "calidad que perdura",
+    "subtext": "Productos seleccionados diseñados para la vida moderna. Compra con confianza.",
+    "trust1": "100% auténtico",
+    "trust2": "Devoluciones en 30 días",
+    "trust3": "Compra segura"
+  },
+  "newsletter": {
+    "cta": "Suscribirse",
+    "disclaimer": "Respetamos tu privacidad. Cancela la suscripción en cualquier momento.",
+    "eyebrow": "Mantente informado",
+    "heading": "Obtén ofertas exclusivas y actualizaciones",
+    "placeholder": "Ingresa tu correo electrónico",
+    "subtext": "Sé el primero en conocer nuevos productos y ofertas especiales.",
+    "success": "¡Gracias por suscribirse!"
+  },
+  "products": {
+    "eyebrow": "Colección Destacada",
+    "heading": "Más vendidos",
+    "subtext": "Amado por miles. Confiado por todos.",
+    "view_all": "Ver todos los productos"
+  },
+  "testimonials": {
+    "eyebrow": "Amor del Cliente",
+    "heading": "Mira lo que la gente está diciendo"
+  }
+}

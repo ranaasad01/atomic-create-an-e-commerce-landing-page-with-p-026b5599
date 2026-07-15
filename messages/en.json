@@ -1,1 +1,86 @@
-{}
+{
+  "nav": {
+    "brand": "Verdant",
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Shop Now",
+    "cart": "Shopping cart",
+    "toggleMenu": "Toggle menu"
+  },
+  "footer": {
+    "brand": {
+      "description": "Premium natural and organic products, sustainably sourced and beautifully crafted for a better everyday life."
+    },
+    "shop": {
+      "title": "Shop",
+      "all": "All Products",
+      "new": "New Arrivals",
+      "sale": "Sale",
+      "bestsellers": "Bestsellers"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "sustainability": "Sustainability",
+      "press": "Press",
+      "careers": "Careers"
+    },
+    "support": {
+      "title": "Support",
+      "faq": "FAQ",
+      "shipping": "Shipping",
+      "returns": "Returns",
+      "contact": "Contact Us"
+    },
+    "copyright": "© {year} {brand}. All rights reserved.",
+    "madeWith": "Made with",
+    "forNature": "for the planet."
+  },
+  "about": {
+    "body": "We curate the finest products from trusted makers worldwide. Every item is selected for quality, sustainability, and design excellence to ensure you get the best.",
+    "eyebrow": "Our Story",
+    "heading": "Thoughtfully sourced. Beautifully delivered.",
+    "stat_label": "Happy customers"
+  },
+  "categories": {
+    "eyebrow": "Shop by Category",
+    "heading": "Find what you're looking for",
+    "items": "Items",
+    "view_all": "View all"
+  },
+  "hero": {
+    "cta_primary": "Shop now",
+    "cta_secondary": "Learn more",
+    "eyebrow": "Welcome to our store",
+    "float_sub": "Free shipping on orders over $50",
+    "float_title": "Limited time offer",
+    "headline1": "Discover",
+    "headline2": "quality that lasts",
+    "subtext": "Hand-picked products designed for modern living. Shop with confidence.",
+    "trust1": "100% authentic",
+    "trust2": "30-day returns",
+    "trust3": "Secure checkout"
+  },
+  "newsletter": {
+    "cta": "Subscribe",
+    "disclaimer": "We respect your privacy. Unsubscribe anytime.",
+    "eyebrow": "Stay in the loop",
+    "heading": "Get exclusive offers & updates",
+    "placeholder": "Enter your email",
+    "subtext": "Be first to know about new arrivals and special deals.",
+    "success": "Thanks for subscribing!"
+  },
+  "products": {
+    "eyebrow": "Featured Collection",
+    "heading": "Best sellers",
+    "subtext": "Loved by thousands. Trusted by everyone.",
+    "view_all": "View all products"
+  },
+  "testimonials": {
+    "eyebrow": "Customer Love",
+    "heading": "See what people are saying"
+  }
+}
